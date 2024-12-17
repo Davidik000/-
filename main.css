@@ -1,0 +1,77 @@
+.link{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    border: 1px solid black;
+    padding: 7px;
+    border-radius: 5px;
+   
+    
+ }
+
+.ber{
+    border: 2px solid black;
+    width: 850px;
+    text-indent: 20px;
+    padding: 11px;
+    margin: 10px;
+    background-color: yellow;
+    color: black;
+    
+}
+
+.ber2{
+    font-size: 25px;
+}
+
+
+
+button { 
+    display: inline-block; 
+    padding: 13px; 
+    background-color: greenyellow; 
+    color: black; 
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+}
+
+
+
+
+
+
+
+ .link:focus {
+    background-color: yellow;
+ }
+
+ .link:hover{
+    background-color: greenyellow;
+ }
+
+ .link:active{
+    background-color: blue;
+ }
+
+ .link:visited{
+    background-color: red;
+ }
+
+ footer { 
+    text-align: center; 
+    padding: 9px; 
+    background-color: rosybrown; 
+    color: black; 
+    position: absolute; 
+    bottom: 0; 
+    width: 100%; 
+}
+
+h1{
+    
+    padding: 9px; 
+    background-color: rosybrown; 
+    color: black; 
+    width: 100%; 
+}
